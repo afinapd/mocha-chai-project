@@ -1,2 +1,2 @@
-install devDependencies "npm install"
-run test "npm run test-api"
+- install devDependencies "npm install"
+- run test "npm run test-api"
